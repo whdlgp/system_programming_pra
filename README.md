@@ -5,4 +5,4 @@
 다음 강의를 참조했다.  
 [리눅스 프로그래밍(금오공대 전준철)](http://www.kocw.net/home/search/kemView.do?kemId=1057358)
 
-[위키 페이지]()
+[위키 페이지](https://github.com/whdlgp/system_programming_pra/wiki)
