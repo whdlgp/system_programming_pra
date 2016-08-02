@@ -5,8 +5,8 @@
 wiki에 있는 소스코드와, 다른 연습용으로 작성한 코드들도 추가하였다.  
 
 다음 강의와 자료들을 참조했다.  
-[리눅스 프로그래밍(금오공대 전준철)](http://www.kocw.net/home/search/kemView.do?kemId=1057358)
-[Pthread](http://www.joinc.co.kr/w/Site/Thread/Beginning/PthreadApiReference)
-[FALINUX C 라이브러리](http://forum.falinux.com/zbxe/index.php?mid=C_LIB)
+[리눅스 프로그래밍(금오공대 전준철)](http://www.kocw.net/home/search/kemView.do?kemId=1057358)  
+[Pthread](http://www.joinc.co.kr/w/Site/Thread/Beginning/PthreadApiReference)  
+[FALINUX C 라이브러리](http://forum.falinux.com/zbxe/index.php?mid=C_LIB)  
 
 [위키 페이지](https://github.com/whdlgp/system_programming_pra/wiki)
