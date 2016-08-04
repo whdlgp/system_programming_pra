@@ -8,7 +8,7 @@ wiki에 있는 소스코드와, 다른 연습용으로 작성한 코드들도 �
 [리눅스 프로그래밍(금오공대 전준철)](http://www.kocw.net/home/search/kemView.do?kemId=1057358)  
 [Pthread](http://www.joinc.co.kr/w/Site/Thread/Beginning/PthreadApiReference)  
 [FALINUX C 라이브러리](http://forum.falinux.com/zbxe/index.php?mid=C_LIB)  
-(예정)[Files and I/O, CS61, Lecture 22, November 17, 2011 (Stephen Chong, Harvard School of Engineering and Applied Sciences)](http://cs61.seas.harvard.edu/cs61wiki/images/0/0b/Lec22-Files.pdf)  
-(예정)[Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/2e/ch10-preview.pdf)  
+[Files and I/O, CS61, Lecture 22, November 17, 2011 (Stephen Chong, Harvard School of Engineering and Applied Sciences)](http://cs61.seas.harvard.edu/cs61wiki/images/0/0b/Lec22-Files.pdf)  
+[Computer Systems: A Programmer's Perspective](http://csapp.cs.cmu.edu/2e/ch10-preview.pdf)  
 
 [위키 페이지](https://github.com/whdlgp/system_programming_pra/wiki)
